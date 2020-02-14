@@ -217,6 +217,10 @@ footer .glyphicon {
 	position: relative;
 	top: 10px;
 }
+#contact{
+	line-height: 2;
+}
+
 
 @keyframes slide {
 	0% {
