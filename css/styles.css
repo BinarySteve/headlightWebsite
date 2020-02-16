@@ -293,6 +293,7 @@ footer .glyphicon {
 
 @media screen and (max-width: 480px) {
 	.logo {
-		font-size: 150px;
+		height: 75px;
+		width: 75px;
 	}
 }
