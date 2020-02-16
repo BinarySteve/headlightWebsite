@@ -43,10 +43,15 @@ a:hover {
 }
 
 
+.map{
+	overflow: auto;
+	-webkit-overflow-scrolling:touch;
+}
 
 .map iframe {
 	height: 100%;
 	width: 75%;
+	
 }
 
 .jumbotron {
